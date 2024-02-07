@@ -102,7 +102,7 @@ An OMA3 SBT stores the following data (see Figure 1):
 
 Members may not want some of the data stored in SBTs to be available to the public.  Members may not even want the data to be available to other members.  The Token Working Group will specify the correct privacy preserving mechanisms based on the nature of the data and the level or privacy needed.
 
-![Figure 1]()
+![Figure 1](https://github.com/oma3dao/token-litepaper/blob/main/diagram-1.png)
 **Figure 1- SBT mechanics**
 
 ## 4. OMA3 Fungible Token
@@ -188,7 +188,7 @@ OMA3 currently implements bounties for the following actions:
 
 Some bounty rewards pay out over time, not all at once.  For example, a large software project may pay rewards on alpha, beta, and production milestones.  Infrastructure may require a long period of production use before final rewards get paid out.  The payout schedule is up to the bounty.  For example, 50% of a bounty reward may be paid out on project completion and 50% may be held back pending a review of project performance.
 
-![Figure 2](https://github.com/oma3dao/token-litepaper/blob/main/diagram-1.png)
+![Figure 2](https://github.com/oma3dao/token-litepaper/blob/main/diagram-2.png)
 **Figure 2- Bounty system diagram**
 
 
