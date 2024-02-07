@@ -188,7 +188,7 @@ OMA3 currently implements bounties for the following actions:
 
 Some bounty rewards pay out over time, not all at once.  For example, a large software project may pay rewards on alpha, beta, and production milestones.  Infrastructure may require a long period of production use before final rewards get paid out.  The payout schedule is up to the bounty.  For example, 50% of a bounty reward may be paid out on project completion and 50% may be held back pending a review of project performance.
 
-![Figure 2](https://github.com/oma3dao/token-litepaper/blob/main/diagram-2.png)
+![Figure 2](https://github.com/oma3dao/token-litepaper/blob/main/Figure%202-%20Bounty%20system%20diagram.png)
 **Figure 2- Bounty system diagram**
 
 
